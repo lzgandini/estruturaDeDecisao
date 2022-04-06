@@ -1,5 +1,3 @@
-#1 Faça um Programa que peça dois números e imprima o maior deles.
-
 numero1 = int(input("Escolha um número: "))
 numero2 = int(input("Escolha outro número: "))
 
