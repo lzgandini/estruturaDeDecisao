@@ -9,7 +9,7 @@
     </p>
   <h2>Dificuldades</h2>
     <p>
-      Senti dificuldade especialmente com os números 23 e 24 da lista e não os concluí. Os demais estão devidamente resolvidos e testados.<br>
+      Senti dificuldade especialmente com os números 23 e 24 da lista e não os concluí. Os demais estão devidamente resolvidos e testados.<br><br>
       Todos feitos com muito carinho e com o melhor de mim! Segue a <a href="https://wiki.python.org.br/EstruturaDeDecisao">página da comunidade</a> 
       pra caso você queira me acompanhar.<br>
     </p>
