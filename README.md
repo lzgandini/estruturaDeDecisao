@@ -8,6 +8,4 @@
       Bem, eis aí os exercícios, feitos com muito carinho e com o melhor de mim! Também o <a href="https://wiki.python.org.br/EstruturaDeDecisao">link</a> 
       pra você me acompanhar.<br>
     </p>
-     
-     
-        <h3>Bons estudos e que a Força nos acompanhe!</h3>
+    <h3>Bons estudos e que a Força nos acompanhe!</h3>
