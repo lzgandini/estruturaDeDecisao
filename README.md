@@ -4,7 +4,7 @@
     <p>
       Resolvi fazer esses exercícios depois de meses estudando Python e travando em Orientação à Objetos. Eu escolhia uma metodologia, iniciava com os 
       conceitos básicos e quando via estava em POO. E travava. Mas da última vez resolvi fazer um pouco diferente. <br><br>
-      Recomecei e, ao invés de assistir aulas expositivas e tentar replicar os exercícios, me lembrei dessas listas de exercios que foram curados pelos<br>
+      Recomecei e, ao invés de assistir aulas expositivas e tentar replicar os exercícios, me lembrei dessas listas de exercios que foram curados pelos
       mestres da comunidade. Pessoas que eu admiro e que almejo sentar à mesa um dia. Escolhi fazer, e cá estou!<br><br>
     </p>
   <h2>Dificuldades</h2>
